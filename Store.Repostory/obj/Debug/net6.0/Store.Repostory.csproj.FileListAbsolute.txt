@@ -1,0 +1,15 @@
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\bin\Debug\net6.0\Store.Repostory.deps.json
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\bin\Debug\net6.0\Store.Repostory.dll
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\bin\Debug\net6.0\Store.Repostory.pdb
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\bin\Debug\net6.0\Store.Data.dll
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\bin\Debug\net6.0\Store.Data.pdb
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.csproj.AssemblyReference.cache
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.AssemblyInfoInputs.cache
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.AssemblyInfo.cs
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.csproj.CoreCompileInputs.cache
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.csproj.CopyComplete
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.dll
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\refint\Store.Repostory.dll
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\Store.Repostory.pdb
+D:\Back-End\06 API\Session 01\Store.API\Store.Repostory\obj\Debug\net6.0\ref\Store.Repostory.dll

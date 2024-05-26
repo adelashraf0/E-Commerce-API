@@ -1,0 +1,15 @@
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\bin\Debug\net8.0\Store.Repository.deps.json
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\bin\Debug\net8.0\Store.Repository.dll
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\bin\Debug\net8.0\Store.Repository.pdb
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\bin\Debug\net8.0\Store.Data.dll
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\bin\Debug\net8.0\Store.Data.pdb
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Re.0C98E3FA.Up2Date
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.dll
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\refint\Store.Repository.dll
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\Store.Repository.pdb
+D:\Back-End\06 API\Session 06\Store.API\Store.Repostory\obj\Debug\net8.0\ref\Store.Repository.dll
